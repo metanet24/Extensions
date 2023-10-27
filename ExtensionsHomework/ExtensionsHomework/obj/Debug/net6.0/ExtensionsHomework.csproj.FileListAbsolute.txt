@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\bin\Debug\net6.0\ExtensionsHomework.exe
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\bin\Debug\net6.0\ExtensionsHomework.deps.json
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\bin\Debug\net6.0\ExtensionsHomework.runtimeconfig.json
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\bin\Debug\net6.0\ExtensionsHomework.dll
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\bin\Debug\net6.0\ExtensionsHomework.pdb
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.AssemblyInfo.cs
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.dll
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\refint\ExtensionsHomework.dll
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.pdb
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.genruntimeconfig.cache
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ref\ExtensionsHomework.dll
+C:\Users\HP\Desktop\static\ExtensionsHomework\ExtensionsHomework\obj\Debug\net6.0\ExtensionsHomework.csproj.AssemblyReference.cache
